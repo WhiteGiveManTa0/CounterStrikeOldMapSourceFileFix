@@ -1,1 +1,1 @@
-# Goldsrc-OldMapSourceFileFix
+# OldMapSourceFileFix
